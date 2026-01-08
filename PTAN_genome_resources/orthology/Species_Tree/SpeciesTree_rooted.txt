@@ -1,1 +1,0 @@
-((ptanmaker17.all.maker.proteins:0.444256,uniprot-monotropa+hypopitys:9.85996e-07):0.118047,(uniprot-vaccinium+corymbosum:0.201189,C_sinensis_GCF_004153795.1_AHAU_CSS_1_protein:0.159646):0.118047);
