@@ -1,0 +1,6 @@
+PTAN_unitigs_eukaryota_BUSCO/short_summary.specific.eukaryota_odb10.PTAN_unitigs_eukaryota_BUSCO	C:15.7%[S:15.3%,D:0.4%],F:18.8%,M:65.5%,n:255,E:20.0%
+
+MHYPO_BUSCO/short_summary.specific.embryophyta_odb10.MHYPO_BUSCO	C:22.3%[S:21.1%,D:1.2%],F:34.0%,M:43.7%,n:1614,E:28.3%
+
+RHI_BUSCO/short_summary.specific.fungi_odb10.RHI_BUSCO                  C:98.4%[S:97.4%,D:1.1%],F:0.8%,M:0.8%,n:758,E:20.6%
+
